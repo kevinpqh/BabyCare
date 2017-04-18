@@ -1,11 +1,11 @@
 # BabyCare
 Sistema de Monitoreo Infantil
 
-#Herramientas
+# Herramientas
 
 - kinect
 
-#Integrantes
+# Integrantes
 
 - Yanque Churo, Pedro Luis
 - Salhua Tincoso, Luisa Maria
